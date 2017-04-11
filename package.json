@@ -1,0 +1,17 @@
+{
+  "name": "backupmyshitfromsoundcloud",
+  "version": "1.0.0",
+  "description": "Backup my shit from soundcloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "azopcorp",
+  "license": "WTFPL",
+  "dependencies": {
+    "download": "^5.0.3",
+    "mkdirp": "^0.5.1",
+    "my-wget": "^1.1.0",
+    "simple-soundcloud": "^1.4.0"
+  }
+}
