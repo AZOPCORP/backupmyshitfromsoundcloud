@@ -46,3 +46,7 @@ var client_id ='client_id';//<---- soundcloud api client id
 ```javascript
 var soundcloudUser = new SimpleSoundCloud.User('azop-corp');///<---resolve with user id from https://soundcloud.com/azop-corp
 ```
+
+
+
+Back up your shit.
