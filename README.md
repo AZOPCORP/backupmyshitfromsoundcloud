@@ -33,7 +33,7 @@ $ npm start
 
 create a soundcloud api client_id 
 
-[]: http://soundcloud.com/you/apps/new
+http://soundcloud.com/you/apps/new
 
 
 edit index.js and copy your client id
